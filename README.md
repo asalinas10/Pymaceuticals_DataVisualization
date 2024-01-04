@@ -42,7 +42,7 @@ This assignment is broken down into the following tasks:
 
         - A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
-![Alt text](<Screen Shot 2024-01-03 at 9.30.32 PM.png>)
+![Alt text](<Screen Shot 2024-01-03 at 9.57.39 PM.png>)
 
 3. Create Bar Charts and Pie Charts
 
