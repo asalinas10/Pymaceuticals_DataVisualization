@@ -66,15 +66,15 @@ I've been tasked with generating all of the tables and figures needed using Pyth
 
     - Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
-![Alt text](<Screen Shot 2024-01-03 at 9.34.38 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 5.10.43 PM.png>)
 
 5. Create a Line Plot and a Scatter Plot
 
     - Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 
-    - Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
-
 ![Alt text](<Screen Shot 2024-01-03 at 9.35.39 PM.png>)
+
+    - Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
 
 ![Alt text](<Screen Shot 2024-01-03 at 9.49.25 PM.png>)
 
