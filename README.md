@@ -6,22 +6,6 @@ I've been tasked with generating all of the tables and figures needed using Pyth
 
 # Summary
 
-This assignment is broken down into the following tasks:
-
-    - Prepare the data.
-
-    - Generate summary statistics.
-
-    - Create bar charts and pie charts.
-
-    - Calculate quartiles, find outliers, and create a box plot.
-
-    - Create a line plot and a scatter plot.
-
-    - Calculate correlation and regression.
-
-    - Submit your final analysis.
-
 1. Prepare the Data
 
     - Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
@@ -50,17 +34,23 @@ This assignment is broken down into the following tasks:
 
         - Create the first bar chart with the Pandas DataFrame.plot() method.
 
+![Alt text](<Screen Shot 2024-01-03 at 9.31.55 PM.png>)
+
+
         - Create the second bar chart with Matplotlib's pyplot methods.
+
+![Alt text](<Screen Shot 2024-01-04 at 5.00.26 PM.png>)
 
     - Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
         - Create the first pie chart with the Pandas DataFrame.plot() method.
 
+![Alt text](<Screen Shot 2024-01-04 at 5.07.03 PM.png>)
+
         - Create the second pie chart with Matplotlib's pyplot methods.
 
-![Alt text](<Screen Shot 2024-01-03 at 9.31.55 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 5.07.29 PM.png>)
 
-![Alt text](<Screen Shot 2024-01-03 at 9.32.22 PM.png>)
 
 4. Calculate Quartiles, Find Outliers, and Create a Box Plot
 
